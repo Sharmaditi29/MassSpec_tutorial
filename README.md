@@ -1,5 +1,5 @@
 
-""Welcome to MassSpecTutorial!""
+Welcome to MassSpecTutorial!
 
 This GitHub repository is all about learning the basics of mass spectrometry (MS). If you're new to this field or just curious about how MS works, you're in the right place. Here, I share easy-to-understand codes that will help you explore:
 
