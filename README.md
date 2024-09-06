@@ -1,7 +1,7 @@
 
 Welcome to the MassSpecTutorial!
 
-This repository is your starting point for understanding the basics of mass spectrometry (MS), a powerful tool in the field of proteomics. As I embarked on my PhD journey to explore proteomics and mass spectrometry, I've crafted simple, easy-to-understand code examples to demystify MS. Here’s what you can expect:
+This repository is your starting point for understanding the basics of mass spectrometry (MS), a powerful tool in the field of proteomics. As I embarked on my PhD journey to explore proteomics and mass spectrometry, I've crafted simple, easy-to-understand code examples to explore MS. Here’s what you can expect:
 
 - Understanding Mass Spectrometry: Learn why MS is pivotal in scientific research.
 - Data Formats: Discover how MS data is stored and how to manipulate these formats.
